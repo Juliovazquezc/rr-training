@@ -1,17 +1,16 @@
 <template>
   <div>
-    <Tailwindcss name="Julio César Vázquez" position="Software Developer at Harman Querétaro"/>
+    <Hero/>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import Tailwindcss from '@/components/Tailwindcss.vue'
+import Hero from '../components/Hero';
 
 export default {
   name: 'Home',
   components: {
-    Tailwindcss
+    Hero
   }
 }
 </script>

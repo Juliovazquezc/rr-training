@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.hover-a-header {
+    @apply transition duration-100 ease-in transform hover:scale-125
+}
