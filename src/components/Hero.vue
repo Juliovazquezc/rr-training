@@ -1,6 +1,6 @@
 <template>
   <div class="bg-hero bg-no-repeat bg-center">
-    <div class="h-screen container mx-auto">
+    <div class="h-screen container mx-auto overflow-y-hidden">
       <Header />
       <HeroContent />
     </div>
