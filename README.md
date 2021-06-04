@@ -1,5 +1,7 @@
 # test-tailwindscss
 
+https://juliovazquezc.github.io/rr-training/
+
 ## Project setup
 ```
 npm install
